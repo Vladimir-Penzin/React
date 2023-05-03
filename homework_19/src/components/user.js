@@ -1,4 +1,4 @@
-const ANAKIN_IMAGE = "https://static.wikia.nocookie.net/starwars/images/6/6f/Anakin_Skywalker_RotS.png/revision/latest?cb=20130621175844"
+const ANAKIN_IMAGE = "https://i.pinimg.com/originals/b8/98/af/b898af148fded90b232b7d216502931c.png"
 
 const user = {
     name: "Anakin Skywalker",
