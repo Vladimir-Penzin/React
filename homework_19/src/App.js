@@ -29,7 +29,7 @@ function post() {
                 <img src={icon1} alt="icon1"/>
                 <span>482</span>
             </div>
-            <div clasName="icon">
+            <div className="icon">
                 <img src={icon2} alt="icon2"/>
                 <span>146</span>
             </div>
