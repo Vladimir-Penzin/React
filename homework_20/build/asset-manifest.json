@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.604619db.css",
+    "main.js": "/static/js/main.e2be17d1.js",
+    "static/media/venus-mars-solid.svg": "/static/media/venus-mars-solid.1ef0bc324bbafc7d13d53f36cac848ce.svg",
+    "static/media/mars-solid.svg": "/static/media/mars-solid.515a6a1e19334e60a1db6b3951f18919.svg",
+    "static/media/venus-solid.svg": "/static/media/venus-solid.8bdc8f31e5384cb92a05fa94f32dd514.svg",
+    "index.html": "/index.html",
+    "main.604619db.css.map": "/static/css/main.604619db.css.map",
+    "main.e2be17d1.js.map": "/static/js/main.e2be17d1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.604619db.css",
+    "static/js/main.e2be17d1.js"
+  ]
+}
