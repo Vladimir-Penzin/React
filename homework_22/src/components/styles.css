@@ -1,0 +1,126 @@
+.btn-start {
+    outline: none;
+    border: none;
+    padding: 10px;
+    background-color: rgb(10, 180, 83);
+    color: black;
+    font-size: 24px;
+    font-weight: 600;
+    width: 120px;
+    margin: 10px;
+    text-align: center;
+    border-radius: 12px;
+    transition: all 0.3s ease;
+}
+
+.btn-start:hover {
+    transform: scale(0.9);
+    box-shadow: 0 0 1px 4px rgb(87, 85, 85);
+    cursor: pointer;
+}
+
+.btn-stop {
+    outline: none;
+    border: none;
+    padding: 10px;
+    background-color: rgb(199, 89, 16);
+    color: rgb(52, 47, 47);
+    font-size: 24px;
+    font-weight: 600;
+    width: 120px;
+    margin: 10px;
+    text-align: center;
+    border-radius: 12px;
+    transition: all 0.3s ease;
+}
+
+.btn-stop:hover {
+    transform: scale(0.9);
+    box-shadow: 0 0 1px 4px rgb(74, 62, 50);
+    cursor: pointer;
+}
+
+.btn-reset {
+    outline: none;
+    border: none;
+    padding: 10px;
+    background-color: rgb(211, 231, 35);
+    color: rgb(45, 54, 67);
+    font-size: 24px;
+    font-weight: 600;
+    width: 120px;
+    margin: 10px;
+    text-align: center;
+    border-radius: 12px;
+    transition: all 0.3s ease;
+}
+
+.btn-reset:hover {
+    transform: scale(0.9);
+    box-shadow: 0 0 1px 4px rgb(71, 68, 100);
+    cursor: pointer;
+}
+.input{
+    outline: none;
+    border: 1px solid black;
+    padding: 10px;
+    font-size: 24px;
+    font-weight: 600;
+    width: 120px;
+    margin: 10px;
+    text-align: center;
+    border-radius: 12px;
+}
+.input:hover{
+    background-color: #b9ecf3;
+}
+.br {
+    font-size: 24px;
+    font-weight: 600;
+    text-align: center;
+}
+.autostart {
+    padding: 10px;
+    font-size: 24px;
+    font-weight: 600;
+    width: 120px;
+    margin: 10px;
+    text-align: center;
+    border-radius: 12px;
+}
+.autostart_checkbox{
+    font-size: 24px;
+    font-weight: 600;
+}
+.autostart_checkbox:hover{
+    cursor: pointer;
+    box-shadow: 0 0 5px 2px rgb(151, 228, 224);
+}
+.timer_block{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+}
+.input_block {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.input_block-item {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.select {
+    padding: 10px;
+    font-size: 20px;
+    font-weight: 600;
+    width: 100px;
+    margin: 10px 10px 10px 30px;
+    text-align: center;
+    border-radius: 12px;
+}
