@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "./static/css/main.0dda47d8.css",
+    "main.js": "./static/js/main.ab1ebf3b.js",
+    "static/media/spa2.jpg": "./static/media/spa2.13626127a6e90416f4c0.jpg",
+    "static/media/spa3.jpg": "./static/media/spa3.9dd3c173164a62a70011.jpg",
+    "static/media/spa4.jpg": "./static/media/spa4.bcd0616ee64c2292daec.jpg",
+    "static/media/spa-image.png": "./static/media/spa-image.86784ec3b4c057e3d080.png",
+    "static/media/spa1.jpg": "./static/media/spa1.ed5d7628ddad39d1fd95.jpg",
+    "static/media/img_gallery_05.jpg": "./static/media/img_gallery_05.a2ae5f79259b6784c77f.jpg",
+    "static/media/img_gallery_18.jpg": "./static/media/img_gallery_18.f3e5e9806e27c0221e9a.jpg",
+    "static/media/img_gallery_12.jpg": "./static/media/img_gallery_12.e9a5d4638a4035db33dd.jpg",
+    "static/media/img_gallery_06.jpg": "./static/media/img_gallery_06.9b2542e5b910360fc857.jpg",
+    "static/media/img_gallery_15.jpg": "./static/media/img_gallery_15.448d6f588236d4db9884.jpg",
+    "static/media/img_gallery_04.jpg": "./static/media/img_gallery_04.643e1dd6242f05fe470e.jpg",
+    "static/media/img_gallery_01.jpg": "./static/media/img_gallery_01.db0fc4721b2ea18d089e.jpg",
+    "static/media/img_gallery_03.jpg": "./static/media/img_gallery_03.47f6f07da6a15e0154a8.jpg",
+    "static/media/img_gallery_02.jpg": "./static/media/img_gallery_02.fdf85ff712048645ab7f.jpg",
+    "static/media/img_gallery_09.jpg": "./static/media/img_gallery_09.967e760804dcdbaac718.jpg",
+    "static/media/img_gallery_08.jpg": "./static/media/img_gallery_08.ee30e5210d5a9c62173d.jpg",
+    "static/media/img_gallery_16.jpg": "./static/media/img_gallery_16.d7907ac1430de1ba9ab7.jpg",
+    "static/media/img_gallery_11.jpg": "./static/media/img_gallery_11.037ad4e283d1373e4af3.jpg",
+    "static/media/img_gallery_07.jpg": "./static/media/img_gallery_07.65a4ba4c9aa65482bff3.jpg",
+    "static/media/img_gallery_14.jpg": "./static/media/img_gallery_14.032ae17733b4dec2756a.jpg",
+    "static/media/venus-mars-solid.svg": "./static/media/venus-mars-solid.1ef0bc324bbafc7d13d53f36cac848ce.svg",
+    "static/media/mars-solid.svg": "./static/media/mars-solid.515a6a1e19334e60a1db6b3951f18919.svg",
+    "static/media/venus-solid.svg": "./static/media/venus-solid.8bdc8f31e5384cb92a05fa94f32dd514.svg",
+    "index.html": "./index.html",
+    "main.0dda47d8.css.map": "./static/css/main.0dda47d8.css.map",
+    "main.ab1ebf3b.js.map": "./static/js/main.ab1ebf3b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0dda47d8.css",
+    "static/js/main.ab1ebf3b.js"
+  ]
+}

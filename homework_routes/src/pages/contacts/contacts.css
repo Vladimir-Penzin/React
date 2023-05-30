@@ -1,0 +1,92 @@
+/*body {
+  background-color: #ccc9c9;
+}*/
+  
+.search{
+  display: block;
+  margin: 15px auto;
+  max-width: 500px;
+  min-width: 200px;
+  background-color: #a5d4de;
+  color: rgb(4, 4, 80);
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  border-radius: 15px;
+  border: 2px solid rgb(19, 14, 95);
+  padding: 10px;
+}
+
+.search::placeholder{
+  all: unset;
+  background-color: #a5d4de;
+  color: rgb(78, 78, 82);
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+  
+.app{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+  
+
+.contacts {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  max-width: 500px;
+  min-width: 200px;
+  padding: 15px;
+  background-color: #a5d4de;
+  color: rgb(4, 4, 80);
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  border-radius: 15px;
+  margin-bottom: 15px;
+  border: 2px solid rgb(19, 14, 95);
+}
+  
+.initials-box{
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  background-color: #f1e8bf;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 10px;
+  border: 1px solid gray;
+}
+  
+.initials{
+  font-size: 28px;
+  font-weight: 700;
+  color: rgb(122, 4, 4);
+}
+  
+.card-item{
+  width: 100%;
+  height: 60px;
+  border: 1px solid gray;
+  margin-bottom: 7px;
+  border-radius: 10px;
+  padding: 0 10px;
+  background-color: #c0e0e7;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.card-item img {
+  width: 30px;
+  height: 100%;
+  vertical-align: middle;
+  margin-left: 10px;
+}
+.phone{
+  text-decoration: underline;
+}
